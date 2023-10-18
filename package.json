@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexatiks/Leaflet.SmoothWheelZoom.git"
+    "url": "git+https://github.com/MiniWorks18/Leaflet.SmoothWheelZoom.git"
   },
   "author": "",
   "bugs": {
-    "url": "https://github.com/alexatiks/Leaflet.SmoothWheelZoom/issues"
+    "url": "https://github.com/MiniWorks18/Leaflet.SmoothWheelZoom/issues"
   },
-  "homepage": "https://github.com/alexatiks/Leaflet.SmoothWheelZoom#readme"
+  "homepage": "https://github.com/MiniWorks18/Leaflet.SmoothWheelZoom#readme"
 }
